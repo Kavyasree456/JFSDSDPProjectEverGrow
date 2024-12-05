@@ -413,7 +413,7 @@ public class InvestorController {
 		checkouts.setAmount(amount);
 		checkouts.setYears(years);
 		checkouts.setCategory("fixed");
-		
+		System.out.println("nptg");
 		mv.setViewName("redirect:/displayFunds");
 		investorService.addCheckOut(checkouts);
 		
