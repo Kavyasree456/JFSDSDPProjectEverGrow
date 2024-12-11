@@ -71,14 +71,14 @@
             <div class="quixnav-scroll">
                 <ul class="metismenu" id="menu">
                     <li class="nav-label first">Main Menu</li>
-                    <li><a href="./fundadvisor-dashboard.html"><i class="icon icon-single-04"></i><span class="nav-text">Dashboard</span></a></li>
+                    <li><a href="./fundadvisor-dashboard.jsp"><i class="icon icon-single-04"></i><span class="nav-text">Dashboard</span></a></li>
                     <li class="nav-label">Apps</li>
                     <li><a class="has-arrow" href="javascript:void()" aria-expanded="false"><i class="icon icon-app-store"></i><span class="nav-text">Apps</span></a>
                         <ul aria-expanded="false">
                        
                         <li class="nav-label">Client Management</li>
-                        <li><a href="./fundadvisor-clientmanagement.html"><i class="icon icon-users"></i><span class="nav-text">Client Management</span></a></li>
-                        <li><a href="./fundadvisor-marketinsights.html"><i class="icon icon-users"></i><span class="nav-text">Market Insights</span></a></li>
+                        <li><a href="./fundadvisor-clientmanagement.jsp"><i class="icon icon-users"></i><span class="nav-text">Client Management</span></a></li>
+                        <li><a href="./fundadvisor-marketinsights.jsp"><i class="icon icon-users"></i><span class="nav-text">Market Insights</span></a></li>
                         </ul>
                     </li>
                     

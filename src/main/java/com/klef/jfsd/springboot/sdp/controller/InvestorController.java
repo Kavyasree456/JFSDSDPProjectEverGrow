@@ -177,7 +177,7 @@ public class InvestorController {
 	        String name = investor.getFirstName() + " " + investor.getLastName();
 	        logActivity(id, activity, name);
 
-	        mv.setViewName("redirect:/");
+	        mv.setViewName("redirect:/investorlogin");
 	    } catch (Exception e) {
 	        e.printStackTrace();
 	        System.out.println(e.getMessage());
